@@ -16,3 +16,10 @@ This project was a collaborative effort with the following team members:
 We worked together to ensure a comprehensive approach to diabetes prediction using data science techniques.
 ## Installation & Usage Instructions
 ### Prerequisites
+You don’t need to install anything locally to run this project! All you need is a Google account to use [Google Colab](https://colab.research.google.com/), a cloud-based platform for running Python code.
+### Dataset
+1. Download the dataset:
+The dataset used for this project is included in the repository. You can find it in the `data/` folder.
+
+Alternatively, you can download the dataset directly:
+[Download Dataset](link-to-raw-dataset-file-on-GitHub)
