@@ -17,24 +17,31 @@ We worked together to ensure a comprehensive approach to diabetes prediction usi
 ## Installation & Usage Instructions
 ### Prerequisites
 You don’t need to install anything locally to run this project! All you need is a Google account to use [Google Colab](https://colab.research.google.com/), a cloud-based platform for running Python code.
-### Dataset
+
+### View the Project on GitHub
+This project has been uploaded from Google Colab to GitHub, and you can **view the entire code and results directly in the notebook** without needing to run anything yourself.
+
+Simply navigate to the following file in the repository:
+[Diabetes.Prediction.Project.ipynb](link-to-ipynb-file-in-your-repo)
+
+The notebook prints both the code and all output, including the results of the machine learning model, so there is no need to rerun the code unless you want to make modifications or explore the project further.
+
+### Running the Project on Google Colab (Optional)
 1. Download the dataset:
 The dataset used for this project is included in the repository. You can find it in the file folder.
 
 Alternatively, you can download the dataset directly:
 [Download Dataset](https://github.com/DesireHernandez/Women-Diabetes-Prediction/blob/main/diabetes_prediction_dataset.csv)
 
-### Running the Project on Google Colab
+2. Open the Colab notebook by clicking this link: [Women-Diabetes-Prediction on Google Colab](https://colab.research.google.com/drive/1zratgAur0y7IpBvVDdlz_Umsl2WSmRtl?usp=sharing).
 
-1. Open the Colab notebook by clicking this link: [Women-Diabetes-Prediction on Google Colab](https://colab.research.google.com/drive/1zratgAur0y7IpBvVDdlz_Umsl2WSmRtl?usp=sharing).
-
-2. Once the notebook is open, you'll need to upload the dataset to the Colab session:
+3. Once the notebook is open, you'll need to upload the dataset to the Colab session:
    - Click the **'Files'** icon on the left sidebar.
    - At the top of the file pane, click the **'Upload'** button.
    - Select the dataset file you downloaded and upload it to the session.
 
-3. After the dataset is uploaded, you're ready to run the code:
+4. After the dataset is uploaded, you're ready to run the code:
    - For each section, click the **Run** button (which looks like a play button) located under each title in the notebook.
    - Ensure you run the cells in order, starting from the top, to avoid errors.
 
-4. The notebook will process the data, train the machine learning model, and output predictions based on the health indicators.
+5. The notebook will process the data, train the machine learning model, and output predictions based on the health indicators.
