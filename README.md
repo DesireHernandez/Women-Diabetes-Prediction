@@ -16,10 +16,12 @@ This project was a collaborative effort with the following team members:
 We worked together to ensure a comprehensive approach to diabetes prediction using data science techniques.
 ## Installation & Usage Instructions
 ### Prerequisites
-You don’t need to install anything locally to run this project! All you need is a Google account to use [Google Colab](https://colab.research.google.com/), a cloud-based platform for running Python code.
+You don’t need to install anything locally to run this project! All you need is a Google account to use [Google Colab](https://colab.research.google.com/drive/1zratgAur0y7IpBvVDdlz_Umsl2WSmRtl?usp=sharing), a cloud-based platform for running Python code.
 ### Dataset
 1. Download the dataset:
 The dataset used for this project is included in the repository. You can find it in the `data/` folder.
 
 Alternatively, you can download the dataset directly:
-[Download Dataset](link-to-raw-dataset-file-on-GitHub)
+[Download Dataset](https://github.com/DesireHernandez/Women-Diabetes-Prediction/blob/main/diabetes_prediction_dataset.csv)
+
+
