@@ -22,7 +22,7 @@ You don’t need to install anything locally to run this project! All you need i
 This project has been uploaded from Google Colab to GitHub, and you can **view the entire code and results directly in the notebook** without needing to run anything yourself.
 
 Simply navigate to the following file in the repository:
-[Diabetes.Prediction.Project.ipynb](link-to-ipynb-file-in-your-repo)
+[Diabetes.Prediction.Project.ipynb](https://github.com/DesireHernandez/Women-Diabetes-Prediction/blob/main/DiabetesPredictionProject.ipynb)
 
 The notebook prints both the code and all output, including the results of the machine learning model, so there is no need to rerun the code unless you want to make modifications or explore the project further.
 
