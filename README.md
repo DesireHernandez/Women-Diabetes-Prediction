@@ -12,6 +12,7 @@ This project was a collaborative effort with the following team members:
 - Maudene Rojas
 - Yasmine Baker
 - Desire Hernandez
+
 We worked together to ensure a comprehensive approach to diabetes prediction using data science techniques.
 ## Installation & Usage Instructions
 ### Prerequisites
